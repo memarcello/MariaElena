@@ -183,7 +183,9 @@
      * Examples:
      *   _.each(["a","b","c"], function(e,i,a){ console.log(e)}); 
      *      -> should log "a" "b" "c" to the console
-     */
+     */ 
+
+  
 
 
     /** _.indexOf()
